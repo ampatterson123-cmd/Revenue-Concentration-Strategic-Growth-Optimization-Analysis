@@ -13,7 +13,7 @@ Which customer segments and product categories generate the highest revenue conc
 ---
 
 ## Data Description
-The dataset was source from Kaggle and includes the following columns:
+The dataset was sourced from Kaggle and includes the following columns:
 
 | Column Name       | Description |
 |------------------|-------------|
